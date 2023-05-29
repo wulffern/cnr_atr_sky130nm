@@ -1,0 +1,280 @@
+
+*-------------------------------------------------------------
+* CNRATR_PCH_2C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_2C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.252  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_2C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_2C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.54  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_2C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_2C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=1.26  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_2C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_2C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=2.7  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_2C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_2C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=4.14  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_4C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_4C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.252  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_4C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_4C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.54  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_4C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_4C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=1.26  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_4C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_4C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=2.7  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_4C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_4C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=4.14  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_8C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_8C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.252  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_8C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_8C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.54  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_8C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_8C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=1.26  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_8C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_8C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=2.7  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_8C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_8C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=4.14  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_12C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_12C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.252  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_12C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_12C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=0.54  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_12C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_12C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=1.26  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_12C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_12C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=2.7  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_PCH_12C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_PCH_12C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__pfet_01v8  l=4.14  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_2C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_2C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.252  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_2C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_2C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.54  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_2C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_2C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=1.26  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_2C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_2C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=2.7  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_2C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_2C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=4.14  nf=2  w=0.96  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_4C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_4C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.252  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_4C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_4C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.54  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_4C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_4C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=1.26  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_4C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_4C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=2.7  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_4C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_4C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=4.14  nf=2  w=1.92  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_8C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_8C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.252  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_8C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_8C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.54  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_8C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_8C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=1.26  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_8C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_8C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=2.7  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_8C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_8C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=4.14  nf=2  w=3.84  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_12C1F2 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_12C1F2 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.252  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_12C2F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_12C2F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=0.54  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_12C4F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_12C4F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=1.26  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_12C8F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_12C8F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=2.7  nf=2  w=5.76  
+.ENDS
+
+*-------------------------------------------------------------
+* CNRATR_NCH_12C12F0 <class 'cicpy.core.layoutcell.LayoutCell'>
+*-------------------------------------------------------------
+.SUBCKT CNRATR_NCH_12C12F0 D G S B
+XMM1 D G S B sky130_fd_pr__nfet_01v8  l=4.14  nf=2  w=5.76  
+.ENDS

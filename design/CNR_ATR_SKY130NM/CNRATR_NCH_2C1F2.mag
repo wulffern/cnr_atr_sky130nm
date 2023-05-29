@@ -1,0 +1,118 @@
+magic
+tech sky130B
+magscale 1 2
+timestamp 1685311200
+<< checkpaint >>
+rect 0 0 1152 475
+<< ndiff >>
+rect 416 50 608 122
+rect 416 122 608 208
+rect 416 208 608 280
+rect 416 280 608 367
+rect 416 367 608 439
+<< ptap >>
+rect -96 -36 96 50
+rect 1056 -36 1248 50
+rect -96 50 96 122
+rect 1056 50 1248 122
+rect -96 122 96 208
+rect 1056 122 1248 208
+rect -96 208 96 280
+rect 1056 208 1248 280
+rect -96 280 96 367
+rect 1056 280 1248 367
+rect -96 367 96 439
+rect 1056 367 1248 439
+rect -96 439 96 525
+rect 1056 439 1248 525
+<< poly >>
+rect 352 -18 864 32
+rect 352 140 864 190
+rect 352 298 864 349
+rect 352 457 864 507
+rect 800 122 864 208
+rect 800 208 864 280
+rect 800 280 864 367
+<< locali >>
+rect 800 280 864 367
+rect -96 -36 96 50
+rect 1056 -36 1248 50
+rect -96 50 96 122
+rect 288 50 608 122
+rect 288 50 608 122
+rect 1056 50 1248 122
+rect -96 122 96 208
+rect 288 122 352 208
+rect 800 122 864 208
+rect 1056 122 1248 208
+rect -96 208 96 280
+rect 1056 208 1248 280
+rect 288 208 352 280
+rect 416 208 608 280
+rect 416 208 608 280
+rect 800 208 864 280
+rect 1056 208 1248 280
+rect -96 280 96 367
+rect 288 280 352 367
+rect 800 280 864 367
+rect 1056 280 1248 367
+rect -96 367 96 439
+rect 288 367 608 439
+rect 1056 367 1248 439
+rect -96 439 96 525
+rect 1056 439 1248 525
+<< pcontact >>
+rect 810 144 853 165
+rect 810 165 853 187
+rect 810 187 853 208
+rect 810 208 853 226
+rect 810 226 853 244
+rect 810 244 853 262
+rect 810 262 853 280
+rect 810 280 853 302
+rect 810 302 853 324
+rect 810 324 853 345
+<< ptapc >>
+rect -32 50 32 122
+rect 1120 50 1184 122
+rect -32 122 32 208
+rect 1120 122 1184 208
+rect -32 208 32 280
+rect 1120 208 1184 280
+rect -32 280 32 367
+rect 1120 280 1184 367
+rect -32 367 32 439
+rect 1120 367 1184 439
+<< ndcontact >>
+rect 448 68 480 86
+rect 448 86 480 104
+rect 480 68 544 86
+rect 480 86 544 104
+rect 544 68 576 86
+rect 544 86 576 104
+rect 448 226 480 244
+rect 448 244 480 262
+rect 480 226 544 244
+rect 480 244 544 262
+rect 544 226 576 244
+rect 544 244 576 262
+rect 448 385 480 403
+rect 448 403 480 421
+rect 480 385 544 403
+rect 480 403 544 421
+rect 544 385 576 403
+rect 544 403 576 421
+<< pwell >>
+rect -184 -124 1336 613
+<< labels >>
+flabel locali s 800 280 864 367 0 FreeSans 400 0 0 0 G
+port 2 nsew signal bidirectional
+flabel locali s 288 50 608 122 0 FreeSans 400 0 0 0 S
+port 3 nsew signal bidirectional
+flabel locali s 1056 208 1248 280 0 FreeSans 400 0 0 0 B
+port 4 nsew signal bidirectional
+flabel locali s 416 208 608 280 0 FreeSans 400 0 0 0 D
+port 1 nsew signal bidirectional
+<< properties >>
+string FIXED_BBOX 0 0 1152 475
+<< end >>

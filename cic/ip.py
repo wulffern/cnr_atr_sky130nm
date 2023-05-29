@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+import json
 
 name = "{type}CH_{contacts}C{f_int}F{f_frac}"
 
@@ -46,6 +46,9 @@ N = len(cells)
 
 with open("../cic/cells","w") as fo:
     fo.write("CELLS = " + " ".join(names))
+
+with open("../cic/cells.json","w") as fo:
+    fo.write(json.dumps(names))
 
 with open("../cic/alltran.json","w") as fo:
     fo.write("""
