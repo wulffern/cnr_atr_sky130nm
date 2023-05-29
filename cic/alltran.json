@@ -1,0 +1,566 @@
+
+{
+   "cells" : [
+
+        { "name" : "PCH_2C1F2",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_2C2F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_2C4F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_2C8F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_2C12F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_4C1F2",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_4C2F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_4C4F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_4C8F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_4C12F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_8C1F2",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_8C2F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_8C4F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_8C8F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_8C12F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_12C1F2",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_12C2F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_12C4F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_12C8F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "PCH_12C12F0",
+          "inherit" : "PCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_2C1F2",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_2C2F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_2C4F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_2C8F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_2C12F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 0,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_4C1F2",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_4C2F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_4C4F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_4C8F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_4C12F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 1,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_8C1F2",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_8C2F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_8C4F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_8C8F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_8C12F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 3,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_12C1F2",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,1.2,1,1.2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_12C2F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,2,1,2,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_12C4F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,4,1,4,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_12C8F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,8,1,8,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        },
+        { "name" : "NCH_12C12F0",
+          "inherit" : "NCH",
+          "abstract" : 0,
+          "verticalMultiplyVector" : [1.2,1,12,1,12,1,1.2],
+          "afterNew":{
+              "copyColumns": [
+                  {
+                      "count": 5,
+                      "offset": 8,
+                      "length": 3
+                  }
+              ]
+          }
+        }
+   ]
+}
