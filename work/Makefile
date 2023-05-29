@@ -10,11 +10,12 @@
 # -----------------------------------------------------------
 
 
-PREFIX=
+
+PREFIX=CNRATR_
 LIB=CNR_ATR_SKY130NM
 CELL=CNR_ATR
 
 #- Provide cells you want to check for the lvsall drcall commands
-CELLS = CNR_ATR
+-include ../cic/cells
 
 include ../tech/make/core.make
