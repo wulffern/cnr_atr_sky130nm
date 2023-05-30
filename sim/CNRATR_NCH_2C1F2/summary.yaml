@@ -1,16 +1,16 @@
-description: TB_NCM
+description: CNRATR_NCH_2C1F2
 simulations:
-   tran:
-    name: Transient analysis
+   dc:
+    name: DC sweep
     description: |
-      Check transient operation
+      Transistor parameters
     data:
       - name: Sch_typ
-        src: results/tran_Sch_typical
+        src: results/dc_Sch_typical
         method: typical
       - name: Sch_etc
-        src: results/tran_Sch_etc
+        src: results/dc_Sch_etc
         method: minmax
       - name: Sch_3std
-        src: results/tran_Sch_mc
+        src: results/dc_Sch_mc
         method: 3std
