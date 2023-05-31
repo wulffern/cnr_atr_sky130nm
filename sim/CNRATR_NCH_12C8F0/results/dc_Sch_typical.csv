@@ -1,0 +1,2 @@
+,gmid10_id,gmid15_id,gmid10_vgs,gmid15_vgs,gmid10_vth,gmid15_vth,gmid10_vdsat,gmid15_vdsat,gmid10_rds,gmid15_rds,gmid10_gmrds,gmid15_gmrds,gmid10_gmrds_db,gmid15_gmrds_db,name,type,time,OK
+0,23.84975,9.070016,744.798,655.5652,542.4290000000001,542.4290000000001,182.80440000000002,117.67139999999999,1.335445,3.005769,266.0546,272.5207,48.48444,48.70381,dc_SchGtKttTtVt,Sch,Wed May 31 21:37:01 2023,True

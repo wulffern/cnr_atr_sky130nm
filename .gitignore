@@ -16,3 +16,5 @@ work/lvs
 work/gds
 work/drc
 work/xsch
+*.html
+*.md
