@@ -12,6 +12,8 @@ CELL=CNR_ATR
 PREFIX=CNRATR_
 
 
+post:
+	${foreach c, ${CELLS}, cat header.md ${PREFIX}${c}/README.md > ../docs/_mos/${PREFIX}${c}.md;}
 
 run:
 	test -d ${PREFIX}${NAME} && cd ${PREFIX}${NAME} && make ${CORNER} OPT=${OPT}
