@@ -20,3 +20,10 @@ run:
 
 gen:
 	python3 gendirs.py
+
+parse:
+	python3 parse.py
+
+summary:
+	python3 plot.py
+	cat header.md README.md > ../docs/_mos/all.md
