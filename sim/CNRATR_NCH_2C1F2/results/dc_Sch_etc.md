@@ -5,30 +5,30 @@ For details see <a href='dc_Sch_etc.html'>dc_Sch_etc.html</a>
 |**Name**|**Parameter**|**View**|**Min** | **Typ** | **Max**|
 |:---|:---|:---:|:---:|:---:|:---:|
 ||gmid10\_id | Spec |  |  |  |
-| | | ('Sch',)|12.97 uA | 30.16 uA | 54.06 uA |
+| | | ('Sch',)|14.80 uA | 33.73 uA | 59.88 uA |
 ||gmid15\_id | Spec |  |  |  |
-| | | ('Sch',)|2.58 uA | 7.96 uA | 19.52 uA |
+| | | ('Sch',)|2.94 uA | 9.22 uA | 21.78 uA |
 ||gmid10\_vgs | Spec |  |  |  |
-| | | ('Sch',)|697 mV | 820 mV | 971 mV |
+| | | ('Sch',)|687 mV | 818 mV | 977 mV |
 ||gmid15\_vgs | Spec |  |  |  |
-| | | ('Sch',)|543 mV | 705 mV | 876 mV |
+| | | ('Sch',)|538 mV | 703 mV | 885 mV |
 ||gmid10\_vth | Spec |  |  |  |
-| | | ('Sch',)|572 mV | 693 mV | 814 mV |
+| | | ('Sch',)|582 mV | 705 mV | 827 mV |
 ||gmid15\_vth | Spec |  |  |  |
-| | | ('Sch',)|572 mV | 693 mV | 814 mV |
+| | | ('Sch',)|582 mV | 705 mV | 827 mV |
 ||gmid10\_vdsat | Spec |  |  |  |
-| | | ('Sch',)|109 mV | 138 mV | 156 mV |
+| | | ('Sch',)|101 mV | 130 mV | 150 mV |
 ||gmid15\_vdsat | Spec |  |  |  |
-| | | ('Sch',)|70 mV | 80 mV | 88 mV |
+| | | ('Sch',)|65 mV | 78 mV | 85 mV |
 ||gmid10\_rds | Spec |  |  |  |
-| | | ('Sch',)|0.11 MOhm | 0.24 MOhm | 0.64 MOhm |
+| | | ('Sch',)|0.08 MOhm | 0.17 MOhm | 0.46 MOhm |
 ||gmid15\_rds | Spec |  |  |  |
-| | | ('Sch',)|0.27 MOhm | 0.94 MOhm | 2.95 MOhm |
+| | | ('Sch',)|0.20 MOhm | 0.68 MOhm | 2.24 MOhm |
 ||gmid10\_gmrds | Spec |  |  |  |
-| | | ('Sch',)|50.43 V | 63.35 V | 77.13 V |
+| | | ('Sch',)|39.50 V | 51.46 V | 64.57 V |
 ||gmid15\_gmrds | Spec |  |  |  |
-| | | ('Sch',)|53.54 V | 64.07 V | 78.51 V |
+| | | ('Sch',)|43.59 V | 54.33 V | 67.86 V |
 ||gmid10\_gmrds\_db | Spec |  |  |  |
-| | | ('Sch',)|34.04 dB | 36.00 dB | 37.74 dB |
+| | | ('Sch',)|31.91 dB | 34.17 dB | 36.20 dB |
 ||gmid15\_gmrds\_db | Spec |  |  |  |
-| | | ('Sch',)|34.57 dB | 36.09 dB | 37.90 dB |
+| | | ('Sch',)|32.78 dB | 34.65 dB | 36.63 dB |
