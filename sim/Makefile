@@ -12,6 +12,11 @@ CELL=CNR_ATR
 PREFIX=CNRATR_
 
 
+test:
+	${MAKE} run CORNER="typical" NAME=PCH_8C12F0
+	test -f CNRATR_PCH_8C12F0/output_dc/dc_SchGtKttTtVt.yaml || exit;
+	cat CNRATR_PCH_8C12F0/output_dc/dc_SchGtKttTtVt.yaml |grep gmid10_vgs|perl -ne '($$k,$$v) = split(/ /);if($$v < -1){exit 0;}{exit 1;}'
+
 post:
 	${foreach c, ${CELLS}, cat header.md ${PREFIX}${c}/README.md > ../docs/_mos/${PREFIX}${c}.md;}
 

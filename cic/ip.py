@@ -7,7 +7,7 @@ cell = """
         { "name" : "{name}",
           "inherit" : "{type}CH",
           "abstract" : 0,
-          "verticalMultiplyVector" : [1.2,1,{f},1,{f},1,1.2],
+          "verticalMultiplyVector" : [1.125,1,{f},1,{f},1,1.125],
           "afterNew":{
               "copyColumns": [
                   {
@@ -35,6 +35,10 @@ for t in types:
             .replace("{f_int}",str(int(f))) \
             .replace("{f_frac}",str(round(f_frac)))
             names.append(cname)
+
+            #- LVS error on the 1.2F size, change to smaller size
+            if(f == 1.2):
+                f = 1.125
 
             ss = cell.replace("{type}",t) \
             .replace("{name}",cname) \

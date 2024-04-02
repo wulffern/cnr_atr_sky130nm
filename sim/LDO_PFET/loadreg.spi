@@ -37,10 +37,14 @@ XM1 OUT G VDD VDD sky130_fd_pr__pfet_01v8 L=0.252 W=11.52 nf=2 ad='int((nf+1)/2)
 
 * Reference
 VREF VREF 0 dc 0.8
+
+* OTA
 BOTA G 0 V=(1 + tanh(-1000*(v(vref) -v(out) )))/2*{AVDD}
 
+* Load cap
 CL OUT 0 1u
 
+* Current load
 ILOAD OUT 0 pwl 0 0 1u 0 50u 0.5
 
 BGS VGS 0 V=V(VDD)- V(G)
